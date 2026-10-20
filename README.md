@@ -1,4 +1,4 @@
-# OceanScope — 海洋智慧監測平台（面試作品）
+# OceanScope — 海洋智慧監測平台
 
 React + TypeScript + MapLibre GL JS + deck.gl 製作的海洋 WebGIS 展示專案。
 
